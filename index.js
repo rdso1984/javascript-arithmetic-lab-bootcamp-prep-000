@@ -17,7 +17,7 @@ function divide(a, b){
 }
 
 function inc(n){
-  return a+=n;
+  return 219+=n;
 }
 
 function dec(n){
