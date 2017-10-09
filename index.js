@@ -1,4 +1,4 @@
-
+var number;
 
 function add(a, b){
   return a+b;
@@ -21,7 +21,7 @@ function inc(n){
 }
 
 function dec(n){
-  return a-=n;
+  return number -=n;
 }
 
 function makeInt(n){
